@@ -1,0 +1,9 @@
+# Configurações de IDE (como visto na sua estrutura)
+.vscode/
+
+# Arquivos do Sistema Operacional
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
